@@ -632,7 +632,6 @@ text-transform: uppercase;
    text-transform: uppercase;
    letter-spacing: 1px;
    color: #000;
-   margin-left:10px;
 }
 #experience h1 span { display: none; }
 #experience .header-col { padding-top: 9px; }
