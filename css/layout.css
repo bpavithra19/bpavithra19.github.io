@@ -207,8 +207,8 @@ ul#nav li.current a { color: #F06000; }
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
+   width: 150px;
+   height: 170px;
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
@@ -632,24 +632,29 @@ text-transform: uppercase;
    text-transform: uppercase;
    letter-spacing: 1px;
    color: #000;
+   margin-left:10px;
 }
 #experience h1 span { display: none; }
 #experience .header-col { padding-top: 9px; }
 #experience .header-col h1:before {
    font-family: 'FontAwesome';
    content: "\f10d";
-	padding-right: 10px;
+	padding-right: 20px;
 	font-size: 72px;
    line-height: 72px;
    text-align: left;
    float: left;
    color: #fff;
 }
+#experience h4 {
+	 margin-left:20px;
+}
 #experience .info {
    font: 16px/24px ;
    color: #6E7881;
    margin-bottom: 18px;
    margin-top: 9px;
+   margin-left:20px;
 }
 #experience .info span {
    margin-right: 5px;
