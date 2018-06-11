@@ -647,14 +647,14 @@ text-transform: uppercase;
    color: #fff;
 }
 #experience h4 {
-	 margin-left:20px;
+	 margin-left:30px;
 }
 #experience .info {
    font: 16px/24px ;
    color: #6E7881;
    margin-bottom: 18px;
    margin-top: 9px;
-   margin-left:20px;
+   margin-left:30px;
 }
 #experience .info span {
    margin-right: 5px;
@@ -722,7 +722,7 @@ text-transform: uppercase;
 	color: #fff;
 	background-color: #11ABB0;
 }
-#contact button.submit {
+#contact input.submit {
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	color:#fff;
@@ -733,8 +733,9 @@ text-transform: uppercase;
    display: inline-block;
 	border-radius: 3px;
    margin-left: 26%;
+   width:20%;
 }
-#contact button.submit:hover {
+#contact input.submit:hover {
 	color: #0D0D0D;
 	background: #fff;
 }
